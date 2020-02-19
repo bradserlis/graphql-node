@@ -6,7 +6,7 @@
   "dependencies": {
     "aws-lambda": "^1.0.5",
     "graphql-yoga": "^1.17.4",
-    "lodash": "4.17.12",
+    "lodash": "4.17.13",
     "prisma-client-lib": "^1.29.2"
   }
 }
